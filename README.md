@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Slack Integration with Slack API</title>
+    Slack Integration with Slack API
 </head>
 <body>
     <h1>Setting Up Slack Integration using Slack API</h1>
